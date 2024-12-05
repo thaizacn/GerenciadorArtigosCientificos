@@ -78,6 +78,14 @@ Conecte-se a um dos nós e configure o replica set:
    ]
   });
 ```
+- Três replicas rodando via IntelliJ:
+![image](https://github.com/user-attachments/assets/6cb278dd-afdd-4a1f-befa-6f4fb1e55489)
+
+- Aplicação acessando e completando operações:
+![image](https://github.com/user-attachments/assets/c2fb149f-0bb4-4b94-9ab6-80a24d7469d9)
+
+- Evidências da inserção via MongoDB Compass:
+![image](https://github.com/user-attachments/assets/546affd4-3eae-423a-aebd-0b9651bd7d7f)
 
 ## 🧩 Funcionalidades Implementadas
 1. Adicionar Artigo: Permite criar um novo artigo no banco de dados.
