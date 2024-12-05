@@ -11,9 +11,9 @@ public class Main {
 
         // Criar um artigo
         Artigo artigo = new Artigo();
-        artigo.setTitulo("Ciência da Computação");
-        artigo.setAutor("Jane Doe");
-        artigo.setResumo("Explorando o futuro da tecnologia.");
+        artigo.setTitulo("Análise e Desenvolvimento de Sistemas - The end!");
+        artigo.setAutor("Thaiza Nascimento");
+        artigo.setResumo("Sessão: Conquistando meu diplominha.");
         artigo.setAnoPublicacao(2024);
 
         // Inserir artigo e PDF
